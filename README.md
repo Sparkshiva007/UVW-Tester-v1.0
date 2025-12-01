@@ -66,7 +66,7 @@ Created entirely in **KiCad**, with emphasis on:
 - LCD mounting hole alignment  
 - Safe routing for power paths
 
-<img src="images/UVW%20tester11.png" width="500">
+<img src="images/UVW%20tester11.png" width="700">
 
 ---
 
