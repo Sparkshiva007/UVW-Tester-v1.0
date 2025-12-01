@@ -64,8 +64,9 @@ Created entirely in **KiCad**, with emphasis on:
 - Logical component placement  
 - Clear silkscreen labels  
 - LCD mounting hole alignment  
-- Safe routing for power paths  
-![UVW Tester](images/UVW%20tester11.png)
+- Safe routing for power paths
+
+<img src="images/UVW%20tester11.png" width="300">
 
 ---
 
