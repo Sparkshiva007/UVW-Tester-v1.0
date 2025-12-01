@@ -65,7 +65,7 @@ Created entirely in **KiCad**, with emphasis on:
 - Clear silkscreen labels  
 - LCD mounting hole alignment  
 - Safe routing for power paths  
-
+![UVW Tester](images/UVW%20tester11.png)
 
 ---
 
