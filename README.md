@@ -11,7 +11,7 @@ A custom-designed **UVW Phase Tester** built from scratch using:
 - 16×2 LCD interface  
 - UVW indicator LEDs and test button  
 
-Designed and routed entirely in **KiCad 7/8**.
+Designed and routed entirely in **KiCad 8/9**.
 
 ---
 
@@ -66,7 +66,7 @@ Created entirely in **KiCad**, with emphasis on:
 - LCD mounting hole alignment  
 - Safe routing for power paths
 
-<img src="images/UVW%20tester11.png" width="300">
+<img src="images/UVW%20tester11.png" width="500">
 
 ---
 
